@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🔭 I’m currently working on BrontoByte, Viettel IDC
+- 🔭 I’m currently working as SWE at BrontoByte, FPT Software
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Data Engineer
 
 ## 🌐Socials
