@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🔭 I’m currently working as SWE at BrontoByte, FPT Software
+- 🔭 I’m currently working as SWE at Seta International
 - 🌱 I’m currently learning Data Engineer, Fullstack Web Development
 
 ## 🌐Socials
